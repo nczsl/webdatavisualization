@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "web data visualization",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "parcel serve ./src/index.html"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/nczsl/webdatavisualization/issues"
   },
-  "homepage": "https://github.com/nczsl/webdatavisualization#readme"
+  "homepage": "https://github.com/nczsl/webdatavisualization#readme",
+  "dependencies": {
+    "@webgpu/types": "^0.1.8"
+  }
 }

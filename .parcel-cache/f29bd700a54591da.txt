@@ -1,0 +1,13 @@
+12
+41F:\github\webdatavisualization\.gitignore132831815017792773 0
+43F:\github\webdatavisualization\package.json132831817036557537 0
+35F:\github\webdatavisualization\dist132831817130449896 1
+38F:\github\webdatavisualization\LICENSE132831793902849780 0
+44F:\github\webdatavisualization\tsconfig.json132831800298395260 0
+40F:\github\webdatavisualization\README.md132831816127604705 0
+42F:\github\webdatavisualization\src\main.ts132831798905882533 0
+34F:\github\webdatavisualization\src132831812578006659 1
+45F:\github\webdatavisualization\src\index.html132831813351930337 0
+53F:\github\webdatavisualization\dist\index.657e2c7b.js132831817129623038 0
+57F:\github\webdatavisualization\dist\index.657e2c7b.js.map132831817130044347 0
+46F:\github\webdatavisualization\dist\index.html132831817129423177 0
